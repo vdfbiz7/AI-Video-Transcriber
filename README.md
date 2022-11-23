@@ -1,6 +1,6 @@
 # AI Video transcriptor
 
-Python program we are going to transcribe a Youtube video to text with the help of AI.
+Python program able to transcribe a Youtube video to text with the help of AI.
 
 ## Installation
 
